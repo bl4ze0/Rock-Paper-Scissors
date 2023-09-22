@@ -18,6 +18,6 @@ If you want me to improve my coding skills please don't hesitate on giving me an
 
 ## Acknowledgments
 
-* Network Chuck
-* Tech With Tim
-* My old crusty laptop :)
+* [Network Chuck](https://www.youtube.com/@NetworkChuck)
+* [Tech With Tim](https://www.youtube.com/@TechWithTim)
+* My old crusty laptop :) 
