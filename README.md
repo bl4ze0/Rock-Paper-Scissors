@@ -1,12 +1,12 @@
 # My First Project
 
-This my first ever python code after 2 months of practicing and training, hope you like it!
+This my first ever python code after 1 month of practicing and training, hope you like it!
 
 ## Installing
 
 To run this code:
 * 1st Solution: Downloading it directly using Github
-* 2st Solution: You can clone it directly into your terminal using the command "git clone https://github.com/AgueroCn/Rock-Paper-Scissors.git"
+* 2nd Solution: You can clone it directly into your terminal using the command "git clone https://github.com/AgueroCn/Rock-Paper-Scissors.git"
 
 ### Prerequisites
 
