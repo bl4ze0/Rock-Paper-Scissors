@@ -5,8 +5,8 @@ This my first ever python code after 2 months of practicing and training, hope y
 ## Installing
 
 To run this code:
-1st Solution: Downloading it directly using Github
-2st Solution: You can clone it directly into your terminal using "https://github.com/AgueroCn/Rock-Paper-Scissors.git"
+* 1st Solution: Downloading it directly using Github
+* 2st Solution: You can clone it directly into your terminal using "https://github.com/AgueroCn/Rock-Paper-Scissors.git"
 
 ### Prerequisites
 
